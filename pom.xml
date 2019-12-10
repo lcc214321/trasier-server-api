@@ -6,7 +6,6 @@
 	<artifactId>trasier-server-api</artifactId>
 	<version>1.0.0</version>
 	<packaging>jar</packaging>
-
 	<name>trasier-server-api</name>
 
 	<description>Trasier Java Server API</description>
